@@ -1,3 +1,3 @@
 <?php
 
-echo "CelCare funcionando 🚑";
+echo "CelCare está funcionando ";
